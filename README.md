@@ -3,7 +3,7 @@ pharmacy-management-system php
   
  ##   Install xampp server with php7 version or higher
  
- ##   Run it after importing the pharmacy(3).sql in mysql database
+ ##   Run it after importing the pharmacy.sql in mysql database
 
  ##   Automitacally backup with a folder called backup created in C:
  
